@@ -8,6 +8,13 @@ A Safari 15 like theme for Firefox 100+ macOS
   <img src="https://github.com/Pepitortue/FirefoxCSS-Safari-theme/blob/master/Showcase%20Light.png">
 </p>
 
+Added window control buttons
+
+<p align="center">
+  <img src="https://github.com/xusader/FirefoxCSS-Safari-theme/blob/master/screenshot.png">
+</p>
+
+
 ## What is it
 This is a Firefox theme for MacOS inspired by Safari. This theme is not meant to reproduce perfectly Safari.
 This code contains a mix of code shared by people from r/FirefoxCSS and modifications I made.
