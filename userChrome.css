@@ -53,8 +53,20 @@ window,
 }
 
 /* Remove window control buttons */
-.titlebar-buttonbox-container { 
+/*.titlebar-buttonbox-container { 
 display: none !important;
+}
+*/
+
+/* enable window control buttons */
+.titlebar-buttonbox-container {
+  position: fixed;
+  /* right: 0; */
+  left: 0;
+  margin-top: 11px;
+  margin-right: 11px;
+  visibility: visible;
+  display: block;
 }
 
 /*----------------------------------------------------
@@ -412,6 +424,7 @@ NAV BAR
 #nav-bar {
 min-height: 40px !important;
 background-color: var(--darker-colour) !important;
+margin-left: 70px !important;
 }
 
 /* Darker back, forward and reload button when disabled */
